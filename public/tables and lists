@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html<!D lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page Styling</title>
+    <style>
+        .img
+        {
+     background-color:"black";
+       margin:;       
+        border:40px;
+      } 
+      </style>
+</head>
+<body bgcolor:"black";> 
+  <h1 style=color:balck;>TABLES AND LISTS</h1>  
+  <table>
+      <tr>
+          <th>Roll No</th>
+          <th>Name</th>
+          <th>Course</th>
+          <th>Department</th>
+      </tr>
+      <tr>
+         <td>101</td>
+         <td>ABCD</td>
+          <td>Computer</td>
+          <td>Cs</td>
+      </tr>      
+      <tr>
+        <td>101</td>
+        <td>ABCD</td>
+         <td>Computer</td>
+         <td>Cs</td>
+     </tr>    
+     <tr>
+        <td>101</td>
+        <td>ABCD</td>
+         <td>Computer</td>
+         <td>Cs</td>
+     </tr>    
+     <tr>
+        <td>101</td>
+        <td>ABCD</td>
+         <td>Computer</td>
+         <td>Cs</td>
+     </tr>    
+     <tr>
+        <td>101</td>
+        <td>ABCD</td>
+         <td>Computer</td>
+         <td>Cs</td>
+     </tr>    
+     <tr>
+        <td>101</td>
+        <td>ABCD</td>
+         <td>Computer</td>
+         <td>Cs</td>
+     </tr>    
+  </table>
+<h2 style=color:black;>No Of Course Available</h2>
+<ul>
+    <li>Computer Science</li>
+    <li>Electronics</li>
+    <li>Accounts</li>
+    <li>Mechanical</li>
+    <li>Artificial Inteligence</li>
+    </ul>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html<!D lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page Styling</title>
+    <style>
+        .img
+        {
+     background-color:"black";
+       margin:;       
+        border:40px;
+        }
+        </style>
+        </head>
+        <body>
+         <h3>Image Map</h3>
+        <img src="https://s3.amazonaws.com/exams-media-content/5737d8a9-8650-4e20-b271-9d598139a871/questions/4211605766-4">
+    </body>
